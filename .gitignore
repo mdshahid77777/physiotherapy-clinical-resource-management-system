@@ -1,0 +1,10 @@
+﻿node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+data/auth-data.json
+desktop.ini
+tsconfig.tsbuildinfo
+dist/
